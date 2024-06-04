@@ -2,7 +2,7 @@
 
 ## Deployment
 
-You can access the live app [here](#).
+You can access the live app [here](https://wander-log.vercel.app/).
 
 ## Description
 
