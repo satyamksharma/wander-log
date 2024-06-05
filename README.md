@@ -1,4 +1,4 @@
-# Travel Tracker
+# Wander Log
 
 ## Deployment
 
